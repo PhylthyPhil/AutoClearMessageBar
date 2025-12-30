@@ -25,4 +25,7 @@ information messages at a configurable interval.
 
 ## Development
 
-The QGIS plugin source code is located in:
+The QGIS plugin source code is located at:
+https://github.com/PhilthyPhil/AutoClearMessageBar
+
+The main plugin code is in the `AutoClearMessageBar/` directory.
